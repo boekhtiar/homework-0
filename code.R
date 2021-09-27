@@ -1,0 +1,8 @@
+library(gtools)
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+library(ggrepel)
+library(gridExtra)
+library(dslabs)
